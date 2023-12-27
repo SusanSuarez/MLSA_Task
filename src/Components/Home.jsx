@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/clever.jpg";
+import image from "../images/clouds.jpg";
 
 const imageAltText = "I am a student of systems engineering and computer science, I specialize in big data and business intelligence, my life phrase is Leave your mark, design your way, this phrase that I made motivates me to give my bit to the world, because small dreams make big goals come true, I have as main purpose, leave my legacy to the world, because this career is my passion, I am very grateful to the people who have supported me in this transit, especially to grow as a person.";
 
