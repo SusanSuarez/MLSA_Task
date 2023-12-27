@@ -31,11 +31,11 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "APPs designer",
+  "Data Analytics",
+  "Cibersecurity",
+  "QA Testing",
+  "WEB designer",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "student at UTP Universidad Tecnológica del Perú | Microsoft student ambassador (Beta) | Core Team collaborator - Google Developer Student Club UTP | IBM Z Ambassador | Data Analyst | Data analyst | Data analyst";
 
 const About = () => {
   return (
